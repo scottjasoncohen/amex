@@ -19,3 +19,12 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+dialog {
+  padding: 16px;
+}
+
+button {
+  margin: 8px 0;
+  border: 1px solid var(--background);
+}
