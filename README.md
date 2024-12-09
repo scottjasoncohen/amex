@@ -8,7 +8,7 @@ Project setup took about a half-hour, mostly thanks to Git troubleshooting with 
 
 ## The Coding
 
-Once I got into the coding, I pared things down and kept them relatively basic. I build a very simple <dialog> element with a <button> inside to close the modal. I built out a useEffect() function (which was really the hardest part of the test, because I'm still getting used to React-style routing) that added event listeners for the open modal button, the close button, the ESC key, and clicking outside the modal when it's open. My JS/React can of course be tightened up, but this is what you get in two hours. ;)
+Once I got into the coding, I pared things down and kept them relatively basic. I built a very simple <dialog> element with a <button> inside to close the modal. I built out a useEffect() function (which was really the hardest part of the test, because I'm still getting used to React-style routing) that added event listeners for the open modal button, the close button, the ESC key, and clicking outside the modal when it's open. My JS/React can of course be tightened up, but this is what you get in two hours. ;)
 
 ## The Testing
 
