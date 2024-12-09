@@ -26,3 +26,7 @@ Testing is actually the weakest part of my toolkit; my previous employers didn't
 Thanks for considering me for this position!
 
 -- Scott
+
+## P.S.
+
+In your unitTest.md file, you have a typo in line 68.
